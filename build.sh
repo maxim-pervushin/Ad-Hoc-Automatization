@@ -27,7 +27,7 @@ provisioning_profile_path=""
 bundle_id_prefix=""
 
 # Server address. (Use download_address/install.html to install app)
-download_address="vkjukebox.mayfleet.com"
+download_address=""
 
 # SFTP configuration 
 sftp_user=""
